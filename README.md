@@ -1,3 +1,4 @@
 # Examen-Ing.Soft3
-# Software3
-# Software3
+Integrantes:
+Johan Santiago Garzón Zuleta
+Nicolas Forero Alvarado
